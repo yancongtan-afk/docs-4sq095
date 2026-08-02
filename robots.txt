@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-z0mcmd.bento4d5pdi.live/sitemap.xml
